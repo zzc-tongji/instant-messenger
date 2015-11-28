@@ -1,0 +1,24 @@
+## Global
+
+# Windows
+**/Thumbs.db
+
+# Mac OS
+**/.DS_Store
+**/.Spotlight-V100
+**/.Trashes
+**/.fseventsd
+**/*.DS_Store
+**/*.Trashes
+
+# Vim
+**/*.swp
+
+## Project
+
+*.suo
+*.sdf
+*.opensdf
+/*/bin
+/*/obj
+/*/*.user
